@@ -9,7 +9,6 @@ I'm a Senior Design Engineer working in Embedded Systems and Military Communicat
 - Firmware debugging & performance optimization
 
 🚗 My next goal:  
-Pursuing a Master's in **Automotive Software Engineering** in Germany.  
 I'm actively building my knowledge in:  
 - Automotive communication protocols (CAN, LIN, FlexRay)  
 - Embedded Linux for vehicle systems  
